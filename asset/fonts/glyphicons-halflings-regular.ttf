@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="cleartype" content="on">
+<meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,user-scalable=no">
+<meta name="HandheldFriendly" content=True>
+<meta name="MobileOptimized" content=320>
+<meta http-equiv="content-language" content="en" />
+<title>Vanilla Tweaks</title>
+<meta name="theme-color" content="#E99743">
+<meta property="description" content="We tweak parts of vanilla Minecraft that we believe can be a little better through resource packs, data packs, and crafting tweaks.">
+<meta name="keywords" content="vanilla,tweaks,vanillatweaks,vanilla tweaks,minecraft,texture pack,minecraft 1.14,vanilla tweaks 1.13,vanilla tweaks 1.14,vanilla tweaks 1.15,vanilla tweaks 1.16,vanilla tweaks download,vanilla tweaks minecraft download,vanilla tweaks minecraft 1.12 download,vanilla tweaks minecraft,vanilla tweaks 1.14,vanilla tweaks 1.12 download,vanilla tweaks 1.12.1,minecraft vanilla tweaks 1.13," />
+<meta property="og:image" content="https://vanillatweaks.net/assets/images/logo.png">
+<link rel="shortcut icon" href="/assets/images/favicon.ico">
+<link rel="stylesheet" href="/assets/external/css/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/external/css/theme.min.css?v2">
+<link rel="stylesheet" href="/assets/css/site.css?v2">
+<link rel="stylesheet" href="/assets/css/custom.css?v4">
+<meta name="google" value="notranslate">
+</head>
+<body>
+<div class="wrap">
+<nav id="w0" class="navbar-default navbar-fixed-top navbar">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/">Vanilla Tweaks</a>
+</div>
+<div class="navbar-items left">
+<ul>
+<li><a id="ab" href="/about">About Vanilla Tweaks</a></li>
+</ul>
+</div>
+<div class="navbar-items">
+<ul>
+<li><a id="rp" href="/picker/resource-packs">Resource Packs</a></li>
+<li><a id="dp" href="/picker/datapacks">Datapacks</a></li>
+<li><a id="ct" href="/picker/crafting-tweaks">Crafting Tweaks</a></li>
+</ul>
+</div>
+</div>
+</nav> <div class="container error">
+<h1>404</h1>
+<h3>Are you sure this is the right page?</h3>
+</div>
+<div class="thetoast"></div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="pull-left"><a href="/terms">© Vanilla Tweaks 2021</a> | <a href="/privacy">Privacy Policy</a></p>
+<p class="pull-right"><a id="jdc" href="https://vanillatweaks.net/discord" target="_blank">Join our Discord</a> | <a id="ftw" href="https://twitter.com/VanillaTweaks" target="_blank">Follow us on Twitter</a> | <a id="fdb" href="/feedback">Send us Feedback</a></p>
+</div>
+</footer>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177871562-1"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-177871562-1');</script>
+<script type="text/javascript" src="/assets/external/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="/assets/external/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/assets/external/js/popper.js"></script>
+<script type="text/javascript" src="/assets/external/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/js/custom.js?v6"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6c0620196f011a3c","version":"2021.12.0","r":1,"token":"befc021522a04617b7cb4ac2929cc0f9","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
